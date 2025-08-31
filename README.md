@@ -44,15 +44,14 @@ The dataset used in this lab includes various customer features related to churn
 
 ## Practice Exercised Completed
 Part a: Adding the callcard Feature
+- Updated the features list to include callcard.
 
-Updated the features list to include callcard.
+- Computed the log loss for this feature set.
 
-Computed the log loss for this feature set.
-
-Log loss value obtained: 0.6039104035600186
+- Log loss value obtained: 0.6039104035600186
 
 ## Credits
 
-Original lab and dataset provided by IBM Skills Network.
+- Original lab and dataset provided by IBM Skills Network.
 
-Additional exercises and analysis completed by me.
+- Additional exercises and analysis completed by me.
